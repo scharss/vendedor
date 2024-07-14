@@ -1,1 +1,1 @@
-# vendedor
+# Gestor del vendedor Señorial
